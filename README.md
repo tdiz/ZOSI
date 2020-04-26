@@ -1,4 +1,4 @@
-# ZOSI
+# ZOSI IPcam
 I have ZOSI 360 degree rotation IPcam. Model 1ND-5122M-W-EU https://www.zositech.com/product/1080p-hd-wireless-ip-camera-with-two-way-audio-for-pet-baby-monitor/
 This camera has 2Mp based on Hi3518-ERBCV200 processor and SC2235 sensor with RTL8188ETV Realtek wifi module. Onvif, telnet and up to 128Gb SD card supporting are on board.
 
