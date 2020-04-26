@@ -1,2 +1,2 @@
-# tdiz
+# ZOSI
 beginner
