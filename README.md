@@ -12,6 +12,4 @@ The most often described issue with it is "freezing" after SD card removing. I h
 6. reboot
 
 The main reason that this folder occupies all free space in memory and camera can't boot as usual. Main modules and lib are not run at all.
-See attached pictures if you want to use UART.
-
-original topic in russian by link https://www.forum.videon.spb.ru/viewtopic.php?f=24&t=14163
+See attached pictures if you want to use UART in original topic in russian by link https://www.forum.videon.spb.ru/viewtopic.php?f=24&t=14163
